@@ -7,6 +7,7 @@ Most people point AI at their to-do list and get back a nicer to-do list. This o
 ## What's here
 
 - [build-your-ai-chief-of-staff.md](build-your-ai-chief-of-staff.md): the setup, both prompts, the daily loop, and the fixes for when it drifts.
+- [Chief-of-Staff-Lesson-Deck.pdf](Chief-of-Staff-Lesson-Deck.pdf): the slides from the live session, for the reasoning behind the build.
 
 ## How to use it
 
