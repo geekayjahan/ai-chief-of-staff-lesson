@@ -31,3 +31,7 @@ Never edit `state.md` by hand. The brief is the only writer, so accuracy never d
 ## If it drifts
 
 The last table in the lesson file covers the four failure modes. The common one is `state.md` growing every day, which means it is appending instead of rewriting in full.
+
+## Go further
+
+This kit comes from one lesson. The [Product Builder Certification by GK](https://maven.com/level-up-with-ai/product-builder-certification-spec-driven-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=pbc-dec26&utm_content=gh-ai-cos-lesson) teaches the full method over two weeks: a spec for a real problem, AI agents building from it in Claude Code, evals that prove it works, and a live deployment.
